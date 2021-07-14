@@ -11,7 +11,6 @@ for _ in range(m):
 dx = [1,-1,0,0]
 dy = [0,0,1,-1]
 
-
 queue_1 = deque()
 for i in range(m):
     for j in range(n):
@@ -29,7 +28,6 @@ def bfs():
             if 0<=nx<n and 0<=ny<m and graph[ny][nx] == 0:
                 graph[ny][nx] = graph[y][x] + 1
                 queue_1.append((ny,nx))
-
 
 bfs()
 no = False
