@@ -8,4 +8,5 @@ for _ in range(t):
     for i in range(n):
         a, b = map(int,read().split())
         graph.append((a,b))
-    graph = sorted(graph)
+    graph = sorted(graph, key=lambda)
+    sorted(time, key=lambda time: time[0], reverse=True)
