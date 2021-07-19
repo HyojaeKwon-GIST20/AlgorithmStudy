@@ -1,6 +1,28 @@
-# AlgorithmStudy
-Algorithm Study in 2021 Summer vacation
+## Algorithm
 
-The goal of this study is BOJ Gold
-and get award of coding test
-Thanks!
+#### 알고리즘 대회 붙어보자!!
+
+
+
+### 그리디
+
+당장 좋은 것만을 선택하는 알고리즘!
+
+문제를 풀기위한 최소한의 아이디어가 필요!
+
+
+
+### 구현
+
+### DFS / BFS
+
+### 정렬
+
+### 이진 탐색
+
+### DP
+
+### 최단 경로
+
+### 그래프 이론
+
