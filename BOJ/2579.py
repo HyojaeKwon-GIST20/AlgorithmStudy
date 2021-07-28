@@ -6,7 +6,6 @@ dp=[]
 dp.append(0)
 for i in range(k):
     dp.append(int(read()))
-
 anp = []
 anp.append(0)
 while True:
