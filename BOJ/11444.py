@@ -27,4 +27,4 @@ if n == 0:
 elif n == 1 or n ==2:
     print(1)
 else:
-    print(fivo(n)%int(1000000007))
+    print(fivo(n))
